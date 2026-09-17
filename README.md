@@ -19,6 +19,8 @@ Install one skill:
 npx skills add Jaysi88/agent-skills --skill vibe-setup
 ```
 
+After installs (with CLI telemetry), the pack can appear on [skills.sh](https://skills.sh). Promo copy: [`docs/PROMO.md`](./docs/PROMO.md).
+
 ## Pipeline (use in order)
 
 ```text

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 — 2026-09-17
+
+### Added
+
+- `skills.sh.json` groupings for the vibe pipeline
+- `docs/PROMO.md` social + seed-install copy
+- `docs/GITHUB_PROFILE_README.md` pin-ready profile blurb
+
 ## 0.1.0 — 2026-09-17
 
 ### Added

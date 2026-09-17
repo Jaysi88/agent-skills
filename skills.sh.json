@@ -1,0 +1,16 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Vibe pipeline",
+      "description": "Grill the idea, scaffold Next.js for Vercel, deslop the UI, then ship-check.",
+      "skills": ["grill-idea", "vibe-setup", "deslop-web", "ship-check"]
+    },
+    {
+      "title": "Build",
+      "description": "Day-to-day implementation discipline after the app exists.",
+      "skills": ["coding-agent"]
+    }
+  ]
+}
