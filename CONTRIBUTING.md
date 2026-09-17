@@ -33,6 +33,12 @@ Follow the [Agent Skills](https://agentskills.io/specification) shape so `npx sk
 
 Before opening a PR:
 
+```bash
+npm run validate
+```
+
+Also:
+
 1. Confirm `name` matches the folder.
 2. Read the skill as if you are a fresh agent with no repo context.
 3. Ensure every required step is actionable (commands, decision points, verify step).

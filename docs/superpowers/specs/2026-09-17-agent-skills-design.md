@@ -7,6 +7,11 @@ Status: Approved
 
 Public OSS repository of Cursor/Codex-compatible agent skills. Primary use: OpenAI Codex for Open Source maintainer application, plus genuine reuse by other developers via `npx skills add Jaysi88/agent-skills`.
 
+## Positioning
+
+Lane: **Ship a real Next.js app on Vercel without scaffolding garbage.**  
+Pipeline: `grill-idea` → `vibe-setup` → `deslop-web` → `ship-check` → `coding-agent`.
+
 ## Hero skill: `vibe-setup`
 
 Interview-style Next.js + Vercel project bootstrap.

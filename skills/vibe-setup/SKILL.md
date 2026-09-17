@@ -14,6 +14,17 @@ Run a short setup interview, then scaffold a production-ready Next.js app for Ve
 
 - User says: vibe setup, new project, scaffold Next.js, start an app, bootstrap
 - User is in a home/empty workspace and wants a real project created
+- A `grill-idea` build brief was just approved
+
+## Pipeline
+
+Recommended flow for vibe coders:
+
+1. `grill-idea` — if the idea is fuzzy
+2. `vibe-setup` — this skill
+3. `deslop-web` — clean the first viewport
+4. `ship-check` — prove build + env readiness
+5. `coding-agent` — feature work after the scaffold exists
 
 ## Hard rules
 
