@@ -4,7 +4,7 @@ Software engineer · NextWave Fusion
 
 Maintainer of **[agent-skills](https://github.com/Jaysi88/agent-skills)** — vibe coder pipeline for Cursor & Codex:
 
-`grill-idea` → `vibe-setup` (Next.js+Vercel) → `deslop-web` → `ship-check`
+`grill-idea` → `vibe-setup` (Next.js+Vercel) → `deslop-web` → `ship-check` → `safe-ship`
 
 ```bash
 npx skills add Jaysi88/agent-skills

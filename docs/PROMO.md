@@ -4,7 +4,7 @@
 
 **Short:**
 ```text
-Vibe coding Next.js? Grill → setup → deslop → ship-check.
+Vibe coding Next.js? Grill → setup → deslop → ship-check → safe-ship.
 npx skills add Jaysi88/agent-skills
 ```
 
@@ -12,7 +12,7 @@ npx skills add Jaysi88/agent-skills
 ```text
 Stop scaffolding garbage.
 agent-skills is a vibe-coder pipeline for Cursor/Codex:
-grill-idea → vibe-setup (Next.js+Vercel) → deslop-web → ship-check
+grill-idea → vibe-setup (Next.js+Vercel) → deslop-web → ship-check → safe-ship
 
 Install: npx skills add Jaysi88/agent-skills
 Repo: https://github.com/Jaysi88/agent-skills
@@ -20,7 +20,7 @@ Repo: https://github.com/Jaysi88/agent-skills
 
 **GitHub profile / About blurb:**
 ```text
-Maintainer of agent-skills — vibe coder pipeline for Cursor & Codex (grill → Next.js+Vercel setup → deslop → ship-check). npx skills add Jaysi88/agent-skills
+Maintainer of agent-skills — vibe coder pipeline for Cursor & Codex (grill → Next.js+Vercel setup → deslop → ship-check → safe-ship). npx skills add Jaysi88/agent-skills
 ```
 
 ## X / Twitter
@@ -35,6 +35,7 @@ Don't jump straight into create-next-app.
 2. interview setup
 3. deslop the landing page
 4. ship-check before deploy
+5. safe-ship (URL + rollback receipt)
 
 npx skills add Jaysi88/agent-skills
 ```
@@ -66,6 +67,7 @@ Hey — shipped an open Agent Skills pack for vibe coders:
 • vibe-setup — Next.js + Vercel interview scaffold
 • deslop-web — kill AI landing-page slop
 • ship-check — build/env preflight
+• safe-ship — reversible release + revert receipt
 • coding-agent — implement → verify
 
 Install:

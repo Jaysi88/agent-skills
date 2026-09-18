@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.2 — 2026-09-18
+
+### Added
+
+- `safe-ship` — reversible release after `ship-check` (health check, rollback path, revert receipt)
+
+### Changed
+
+- Pipeline is now `grill-idea → vibe-setup → deslop-web → ship-check → safe-ship → coding-agent`
+
 ## 0.1.1 — 2026-09-17
 
 ### Added

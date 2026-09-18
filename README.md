@@ -1,7 +1,7 @@
 # Agent Skills — vibe coder pack
 
 **Name:** `agent-skills`  
-**What it does:** Turns a fuzzy “build me an app” chat into a **grilled brief → Next.js+Vercel scaffold → deslop → ship check** pipeline for Cursor, Codex, and other Agent Skills–compatible agents.
+**What it does:** Turns a fuzzy “build me an app” chat into a **grilled brief → Next.js+Vercel scaffold → deslop → ship check → safe ship (rollback)** pipeline for Cursor, Codex, and other Agent Skills–compatible agents.
 
 Famous packs win by being *narrow and sharp* (Humanizer = un-AI writing, Archify = diagrams, SkillSpector = skill security). This pack’s lane is:
 
@@ -24,7 +24,7 @@ After installs (with CLI telemetry), the pack can appear on [skills.sh](https://
 ## Pipeline (use in order)
 
 ```text
-grill-idea → vibe-setup → deslop-web → ship-check → coding-agent
+grill-idea → vibe-setup → deslop-web → ship-check → safe-ship → coding-agent
 ```
 
 | Skill | Name | What it does |
@@ -33,6 +33,7 @@ grill-idea → vibe-setup → deslop-web → ship-check → coding-agent
 | [`vibe-setup`](./skills/vibe-setup/SKILL.md) | Vibe setup | One-question-at-a-time interview → scaffolds Next.js App Router + TS + Tailwind for Vercel |
 | [`deslop-web`](./skills/deslop-web/SKILL.md) | Deslop web | Strips AI landing-page slop (generic heroes, pill soup, fake stats) |
 | [`ship-check`](./skills/ship-check/SKILL.md) | Ship check | Lint/type/build + env-name audit before you claim “ready to deploy” |
+| [`safe-ship`](./skills/safe-ship/SKILL.md) | Safe ship | Reversible release: health check, kill/rollback path, URL + owner + revert receipt |
 | [`coding-agent`](./skills/coding-agent/SKILL.md) | Coding agent | Locate → implement → verify for features/fixes after the app exists |
 
 ## Quick start
@@ -42,6 +43,7 @@ grill-idea → vibe-setup → deslop-web → ship-check → coding-agent
 3. Say **vibe setup**.
 4. Answer one question at a time.
 5. Say **deslop** then **ship check**.
+6. When going live, say **safe ship** — get a URL, owner, and revert receipt.
 
 ## Why this exists
 

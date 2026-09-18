@@ -55,3 +55,4 @@ Prove the app is deployable. Prefer commands over vibes.
 - Fix trivial failures you caused (syntax, missing import) then re-run build
 - Do not deploy unless the user asks
 - Do not invent green status — if build didn’t run successfully, status is BLOCKED
+- After PASS, hand off to `safe-ship` for reversible go-live (URL + owner + revert receipt)

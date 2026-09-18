@@ -4,8 +4,8 @@
   "groupings": [
     {
       "title": "Vibe pipeline",
-      "description": "Grill the idea, scaffold Next.js for Vercel, deslop the UI, then ship-check.",
-      "skills": ["grill-idea", "vibe-setup", "deslop-web", "ship-check"]
+      "description": "Grill the idea, scaffold Next.js for Vercel, deslop the UI, ship-check, then safe-ship.",
+      "skills": ["grill-idea", "vibe-setup", "deslop-web", "ship-check", "safe-ship"]
     },
     {
       "title": "Build",

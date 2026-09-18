@@ -17,4 +17,4 @@ This repository is a **skills pack**, not an application runtime.
 
 ## Suggested user flow
 
-`grill-idea` → `vibe-setup` → `deslop-web` → `ship-check` → `coding-agent`
+`grill-idea` → `vibe-setup` → `deslop-web` → `ship-check` → `safe-ship` → `coding-agent`

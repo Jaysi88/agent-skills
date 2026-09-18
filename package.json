@@ -2,7 +2,7 @@
   "name": "agent-skills",
   "private": true,
   "type": "module",
-  "description": "Vibe coder agent skills pack — grill, scaffold Next.js+Vercel, deslop, ship-check",
+  "description": "Vibe coder agent skills pack — grill, scaffold Next.js+Vercel, deslop, ship-check, safe-ship",
   "scripts": {
     "validate": "node scripts/validate-skills.mjs"
   }
