@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- `agent-team-starter` — free CodeHub Agent starter demo skill (one job + thin loop interview → starter brief)
+
 ## 0.1.2 — 2026-09-18
 
 ### Added

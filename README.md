@@ -74,3 +74,15 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## License
 
 [MIT](./LICENSE)
+
+## Agent team starter (free CodeHub sample)
+
+| Skill | Name | What it does |
+| --- | --- | --- |
+| [`agent-team-starter`](./skills/agent-team-starter/SKILL.md) | Agent team starter | Interviews for one job + thin loop; outputs a reusable starter brief/skill outline |
+
+```bash
+npx skills add Jaysi88/agent-skills --skill agent-team-starter
+```
+
+This is the **free GitHub demo** for Next Wave Fusion’s Agent starter skill pack. Full paid pack (3–5 skills + install notes) lists on [CodeHub marketplace](https://codehub.nextwavefusion.com/marketplace) after Cos/Jay approve.
