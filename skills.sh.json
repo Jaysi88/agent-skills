@@ -5,12 +5,27 @@
     {
       "title": "Vibe pipeline",
       "description": "Grill the idea, scaffold Next.js for Vercel, deslop the UI, ship-check, then safe-ship.",
-      "skills": ["grill-idea", "vibe-setup", "deslop-web", "ship-check", "safe-ship"]
+      "skills": [
+        "grill-idea",
+        "vibe-setup",
+        "deslop-web",
+        "ship-check",
+        "safe-ship"
+      ]
     },
     {
       "title": "Build",
       "description": "Day-to-day implementation discipline after the app exists.",
-      "skills": ["coding-agent"]
+      "skills": [
+        "coding-agent"
+      ]
+    },
+    {
+      "title": "Agent team starter",
+      "description": "First useful Grok Bot / agent loop before a full role kit.",
+      "skills": [
+        "agent-team-starter"
+      ]
     }
   ]
 }
