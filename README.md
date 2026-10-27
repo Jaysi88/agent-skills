@@ -86,3 +86,15 @@ npx skills add Jaysi88/agent-skills --skill agent-team-starter
 ```
 
 This is the **free GitHub demo** for Next Wave Fusion’s Agent starter skill pack. Full paid pack (3–5 skills + install notes) lists on [CodeHub marketplace](https://codehub.nextwavefusion.com/marketplace) after Cos/Jay approve.
+
+## Free skills
+
+| Skill | Name | What it does |
+| --- | --- | --- |
+| [`write-a-stop-rule`](./skills/write-a-stop-rule/SKILL.md) | Write a stop rule | Adds a short stop rule: when to quit, what to report, and when to hand the task back |
+| [`skill-test-before-trust`](./skills/skill-test-before-trust/SKILL.md) | Test a skill before you trust it | Three written tests (normal, tricky, should-stop) and a pass/fail table before real work |
+
+```bash
+npx skills add Jaysi88/agent-skills --skill write-a-stop-rule
+npx skills add Jaysi88/agent-skills --skill skill-test-before-trust
+```
