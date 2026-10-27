@@ -4,6 +4,8 @@
 
 ### Added
 - `agent-team-starter` — free CodeHub Agent starter demo skill (one job + thin loop interview → starter brief)
+- `write-a-stop-rule` — add a stop rule so an agent quits, reports what happened, and hands the task back
+- `skill-test-before-trust` — 3 written tests (normal, tricky, should-stop) before relying on a skill
 
 ## 0.1.2 — 2026-09-18
 

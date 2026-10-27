@@ -26,6 +26,14 @@
       "skills": [
         "agent-team-starter"
       ]
+    },
+    {
+      "title": "Stop rules and skill tests",
+      "description": "Write a stop rule for a skill, then test it on a normal task, a tricky task, and a task that should stop.",
+      "skills": [
+        "write-a-stop-rule",
+        "skill-test-before-trust"
+      ]
     }
   ]
 }
