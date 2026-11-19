@@ -98,3 +98,21 @@ This is the **free GitHub demo** for Next Wave Fusion’s Agent starter skill pa
 npx skills add Jaysi88/agent-skills --skill write-a-stop-rule
 npx skills add Jaysi88/agent-skills --skill skill-test-before-trust
 ```
+
+## Honest bots and learning
+
+| Skill | Name | What it does |
+| --- | --- | --- |
+| [`honest-backtest`](./skills/honest-backtest/SKILL.md) | Honest backtest | Paper back-test with equal deposits and fees, idle cash shown, and an "Honest reading" section before any bot touches real money |
+| [`quiet-alerts`](./skills/quiet-alerts/SKILL.md) | Quiet alerts | Alert rules: one per item per 24 hours unless it falls another 3%, weekly level resets, no orders, no "nothing changed" messages |
+| [`curriculum-first-tutor`](./skills/curriculum-first-tutor/SKILL.md) | Curriculum-first tutor | Full lesson list first, then a 2-minute read, one practice task and 3-5 flash cards per lesson, tracked in a progress file |
+
+```bash
+npx skills add Jaysi88/agent-skills --skill honest-backtest
+npx skills add Jaysi88/agent-skills --skill quiet-alerts
+npx skills add Jaysi88/agent-skills --skill curriculum-first-tutor
+```
+
+## Bot charters
+
+Copy-paste charter templates for Grok Bot or any agent live in [`bots/`](./bots/README.md): an X desk bot, a price alert bot and a daily tutor bot. Each gives the role, hard rules, a suggested routine and the skills it uses.

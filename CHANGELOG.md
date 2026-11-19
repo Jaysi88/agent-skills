@@ -3,6 +3,10 @@
 ## Unreleased
 
 ### Added
+- `honest-backtest` — paper back-test with equal deposits and fees, idle cash shown, and an "Honest reading" section
+- `quiet-alerts` — alert rules: one per item per 24 hours unless another 3% fall, weekly level resets, no orders
+- `curriculum-first-tutor` — full lesson list first, then 2-minute read + practice task + flash cards, tracked in a progress file
+- `bots/` — README plus copy-paste charters: `x-desk-bot.md`, `price-alert-bot.md`, `daily-tutor-bot.md`
 - `agent-team-starter` — free CodeHub Agent starter demo skill (one job + thin loop interview → starter brief)
 - `write-a-stop-rule` — add a stop rule so an agent quits, reports what happened, and hands the task back
 - `skill-test-before-trust` — 3 written tests (normal, tricky, should-stop) before relying on a skill
