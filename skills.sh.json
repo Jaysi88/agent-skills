@@ -34,6 +34,21 @@
         "write-a-stop-rule",
         "skill-test-before-trust"
       ]
+    },
+    {
+      "title": "Honest bots",
+      "description": "Back-test on paper with an honest reading, and keep alert bots quiet.",
+      "skills": [
+        "honest-backtest",
+        "quiet-alerts"
+      ]
+    },
+    {
+      "title": "Learn a topic",
+      "description": "Write the lesson list first, then one same-shaped lesson at a time.",
+      "skills": [
+        "curriculum-first-tutor"
+      ]
     }
   ]
 }
